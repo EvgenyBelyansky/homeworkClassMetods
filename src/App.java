@@ -7,5 +7,8 @@ public class App {
         Book evgenyOnegin = new Book("Евгений Онегин", pushkin, 1833);
         Book kazaki = new Book("Казаки", tolstoy, 1863);
 
+        System.out.println(evgenyOnegin);
+        System.out.println(kazaki);
+
     }
 }
