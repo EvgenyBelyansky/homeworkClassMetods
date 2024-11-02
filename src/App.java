@@ -9,6 +9,5 @@ public class App {
 
         System.out.println(evgenyOnegin);
         System.out.println(kazaki);
-
     }
 }
